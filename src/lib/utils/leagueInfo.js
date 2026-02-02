@@ -26,7 +26,7 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 
 export const managers = [
      {
-       "roster": 12,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+       "roster": 7,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
        "name": "Anthony",
        "location": "Brooklyn", // (optional)
        "bio": "Lorem ipsum...",
@@ -47,7 +47,7 @@ export const managers = [
        "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
      },
      {
-       "roster": 7,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+       "roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
        "name": "Brett",
        "location": "Brooklyn", // (optional)
        "bio": "Lorem ipsum...",
@@ -68,7 +68,7 @@ export const managers = [
        "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
      },
      {
-       "roster": 3,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+       "roster": 12,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
        "name": "Chase",
        "location": "Brooklyn", // (optional)
        "bio": "Lorem ipsum...",
@@ -131,7 +131,7 @@ export const managers = [
        "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
      },
      {
-       "roster": 10,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+       "roster": 6,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
        "name": "Ethan",
        "location": "Brooklyn", // (optional)
        "bio": "Lorem ipsum...",
@@ -152,7 +152,7 @@ export const managers = [
        "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
   {
-       "roster": 4,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+       "roster": 11,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
        "name": "Jared",
        "location": "Brooklyn", // (optional)
        "bio": "Lorem ipsum...",
@@ -173,7 +173,7 @@ export const managers = [
        "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
      },
      {
-       "roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+       "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
        "name": "Johnny",
        "location": "Brooklyn", // (optional)
        "bio": "Lorem ipsum...",
@@ -194,7 +194,7 @@ export const managers = [
        "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
      },
      {
-       "roster": 8,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+       "roster": 10,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
        "name": "Justin",
        "location": "Brooklyn", // (optional)
        "bio": "Lorem ipsum...",
@@ -215,7 +215,7 @@ export const managers = [
        "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
   {
-       "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+       "roster": 3,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
        "name": "Kyle P.",
        "location": "Brooklyn", // (optional)
        "bio": "Lorem ipsum...",
@@ -236,7 +236,7 @@ export const managers = [
        "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
      },
      {
-       "roster": 11,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+       "roster": 8,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
        "name": "Kyle W.",
        "location": "Brooklyn", // (optional)
        "bio": "Lorem ipsum...",
@@ -257,7 +257,7 @@ export const managers = [
        "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
      },
      {
-       "roster": 6,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+       "roster": 4,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
        "name": "Mike",
        "location": "Brooklyn", // (optional)
        "bio": "Lorem ipsum...",
